@@ -6479,8 +6479,6 @@
 
 -[@Salvo9107] (https://github.com/Salvo9107)
 
-<<<<<<< HEAD
--[@kramferolino] (https://github.com/kramferolino)
-=======
 -[@polo871209] (https://github.com/polo871209)
->>>>>>> a415bc5329047094609ca03f8211b1ee03554736
+
+-[@kramferolino] (https://github.com/kramferolino)
